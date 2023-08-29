@@ -12,6 +12,7 @@
 ```
 docker login
 docker push dgandalcio/aws-hello-world-rest-api:0.0.1-SNAPSHOT
+
 ```
 
 ## Test URLs
